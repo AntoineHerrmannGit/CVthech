@@ -1,0 +1,8 @@
+Here is the link to the on-development SkyrmDyn project.
+
+https://github.com/SkyrmDyn/Current
+
+The aim is to simulate classical spins dynamics in the extended micromagnetic model with temperature effects
+including the following interactions : RKKY, DMI, Anisotropy, Zeeman, Dipole-dipole, Rashba SOC
+
+The final aim is to model topological charge emergence and transport in various crystals and sample geometries for skyrmion-based computing.
